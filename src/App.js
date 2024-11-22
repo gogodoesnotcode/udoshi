@@ -27,8 +27,10 @@ const App = () => {
       <button
         onClick={handleButtonClick}
         style={{
+          position:"relative",
+          top:"85%",
           padding: "10px 20px",
-          fontSize: "20px",
+          fontSize: "200px",
           borderRadius: "5px",
           border: "none",
           backgroundColor: "#333",
