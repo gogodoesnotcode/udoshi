@@ -24,7 +24,7 @@ const App = () => {
       }}
     >
       <audio ref={audioRef} loop>
-        <source src={giteshSound} type="audio/mpeg" />
+        <source src={giteshSound} type="audio/mp3" />
       </audio>
     </div>
   );
