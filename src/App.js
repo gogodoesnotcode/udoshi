@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
-import udoshiImage from "./Asset/alshaj.jpg"; // Import the background image
-import giteshSound from "./Asset/gitesh.mp3"; // Import the audio file
+import udoshiImage from "./Asset/alshaj.png"; // Import the background image
+import giteshSound from "./Asset/alshaj.mp3"; // Import the audio file
 
 const App = () => {
   const audioRef = useRef(null);
